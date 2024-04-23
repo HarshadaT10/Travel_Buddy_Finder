@@ -36,7 +36,6 @@ To run the application, you should follow the following steps:
 4. Install the code as a package on your local machine with the command:
    `pip install -e .`
 5. Run the application with the command: `python -m travel_buddy.app`
-6. Navigate to <http://127.0.0.1:5000/> in your web browser.
 
 ### Running Tests Locally
 
